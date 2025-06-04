@@ -1,6 +1,9 @@
+# Learnings
+1) useState Hook 
+
+
 # React + Vite
 
-useState Hook is used
 
 
 
